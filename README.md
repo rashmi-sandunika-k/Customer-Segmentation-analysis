@@ -11,6 +11,13 @@ Customer Segmentation and Purchase Behavior Prediction Using SQL,Python, Machine
 
 ## Dataset Description
 
+- Source: Kaggle
+- Number of records
+- Number of features
+- Key variables
+
+The dataset was obtained from Kaggle and contains customer demographic information, purchasing behavior, subscription status, discount usage, and product-related attributes.
+
 ## Tools Used
 
  - SQL
@@ -20,10 +27,18 @@ Customer Segmentation and Purchase Behavior Prediction Using SQL,Python, Machine
 ## Methodology
 
 1. Data Cleaning
-2. EDA
-3. K-Means Clustering
-4. PCA
-5. Random Forest
+
+3. EDA
+
+Age Distribution
+Purchase Amount Distribution
+Subscription Distribution
+Correlation Heatmap
+Spending by Age Group
+
+5. K-Means Clustering
+6. PCA
+7. Random Forest
 
 ## Results
 
